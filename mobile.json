@@ -1,0 +1,35 @@
+{
+	"category": "Mobile",
+	"list": [
+    {
+		"name": "Snapdragon8 Gen 3",
+		"partnumber": "SM8650-AB",
+		"designer": "Qualcomm",
+		"manufacturer": "TSMC",
+		"process": "N4P",
+		"product": ["Xiaomi 14", "Xiaomi 14 Pro"],
+		"releasedate": "24-Oct-2023",
+		"link": "N/A",
+    },
+	{
+		"name": "S5E9945",
+		"partnumber": "S5E9945",
+		"designer": "Samsung",
+		"manufacturer": "Samsung Foundry",
+		"process": "SF4P",
+		"product": ["Samsung Galasy S24+", "Samsung Galasy S24"],
+		"releasedate": "05-Oct-2023",
+		"link": "N/A",
+    },
+	{
+		"name": "A16 Bionic",
+		"partnumber": "APL1W10-T8120",
+		"designer": "Apple",
+		"manufacturer": "TSMC",
+		"process": "N4",
+		"product": ["iPhone 14 Pro", "iPhone 14 Pro Max", "iPhone 15", "iPhone 15 Plus"],
+		"releasedate": "07-Sep-2022",
+		"link": "N/A",
+    }
+  ]
+}
